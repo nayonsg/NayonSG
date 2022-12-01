@@ -7,7 +7,7 @@ Oh.. wait... Wrong quote.
 Hi, my name is Nayon Silva Gomes, I'm 32 years old and I live in Brazil, currently in Belo Horizonte, Minas Gerais.
 I'm learning about codding and deving, and I'm looking for a chance to work in this area.
 
-# 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently looking for a Jr. position where I can contribute with the team and also learn.
 👯 I’m looking to collaborate on small projects where I can learn more about frontend.
 🤝 I’m looking for help with ways to improve and develop new skills!
