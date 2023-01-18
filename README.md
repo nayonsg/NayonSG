@@ -9,8 +9,7 @@ I'm learning about codding and deving, and I'm looking for a chance to work in t
 
 ## 💫 About Me:
 🔭 I’m currently looking for a Jr. position where I can contribute with the team and also learn.
-👯 I’m looking to collaborate on small projects where I can learn more about frontend.
-🤝 I’m looking for help with ways to improve and develop new skills!
+👯 I’m looking to collaborate all kinds of projects where I can learn more about frontend.
 🌱 I’m currently learning HTML, CSS, Js, Ts and React;
 ⚡ Fun fact: : I've always wanted to work with programing and dev, but all the math involved led me astray from the dev path. But now I'm back for good!
 😄 Pronouns: He/His
