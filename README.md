@@ -1,18 +1,14 @@
-### Hello Stranger! 
+### Hello!
 
-What are you buying?
-What are you selling?
-Oh.. wait... Wrong quote.
-
-Hi, my name is Nayon Silva Gomes, I'm 32 years old and I live in Brazil, currently in Belo Horizonte, Minas Gerais.
+My name is Nayon Silva Gomes, I'm 32 years old and I live in Brazil, currently in Belo Horizonte, Minas Gerais.
 I'm learning about codding and deving, and I'm looking for a chance to work in this area.
 
 ## 💫 About Me:
-#🔭 I’m currently looking for a Jr. position where I can contribute with the team and also learn.
-#👯 I’m looking to collaborate all kinds of projects where I can learn more about frontend.
-#🌱 I’m currently learning HTML, CSS, Js, Ts and React;
-#⚡ Fun fact: : I've always wanted to work with programing and dev, but all the math involved led me astray from the dev path. But now I'm back for good!
-#😄 Pronouns: He/His
+🔭 I’m currently looking for a Jr. position where I can contribute with the team and also learn more. <br>
+👯 I’m looking to collaborate all kinds of projects where I can learn more about frontend. <br>
+🌱 I’m currently learning HTML, CSS, Js, Ts and React. <br>
+⚡ Fun fact: : I've always wanted to work with programing and dev, but all the math involved led me astray from the dev path. But now I'm back for good! <br>
+😄 Pronouns: He/His
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@nayonsg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nayonsg) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@nayonsg) 
